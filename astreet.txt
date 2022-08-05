@@ -1,5 +1,2 @@
-some new message
-hello
-hello
-hello
-hello
+hello from adam
+Hi Adam how's life?
